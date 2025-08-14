@@ -3,5 +3,10 @@
     "username": "dafa",
     "password": "1",
     "role": "admin"
+  },
+  {
+    "username": "puki",
+    "password": "1",
+    "role": "admin"
   }
 ]
