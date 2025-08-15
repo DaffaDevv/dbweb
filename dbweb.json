@@ -13,5 +13,10 @@
     "username": "joko",
     "password": "joko123",
     "role": "user"
+  },
+  {
+    "username": "daffa",
+    "password": "1",
+    "role": "admin"
   }
 ]
