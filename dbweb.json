@@ -1,10 +1,5 @@
 [
   {
-    "username": "daffa",
-    "password": "318",
-    "role": "admin"
-  },
-  {
     "username": "flayy",
     "password": "17",
     "role": "admin"
@@ -27,11 +22,6 @@
   {
     "username": "leonard",
     "password": "19",
-    "role": "admin"
-  },
-  {
-    "username": "daffa",
-    "password": "123",
     "role": "admin"
   }
 ]
