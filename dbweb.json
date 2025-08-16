@@ -1,7 +1,7 @@
 [
   {
-    "username": "Renn",
-    "password": "123",
+    "username": "daffa",
+    "password": "317",
     "role": "admin"
   },
   {
@@ -20,8 +20,8 @@
     "role": "admin"
   },
   {
-    "username": "daffa",
-    "password": "317",
+    "username": "Renn",
+    "password": "123",
     "role": "admin"
   }
 ]
