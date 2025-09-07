@@ -3,10 +3,5 @@
     "username": "daffa",
     "password": "1",
     "role": "admin"
-  },
-  {
-    "username": "poke",
-    "password": "poke",
-    "role": "user"
   }
 ]
