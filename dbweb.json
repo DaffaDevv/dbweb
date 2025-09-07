@@ -1,7 +1,12 @@
 [
-{
-"username": "daffa",
-"password": "1",
-"role": "admin"
-}
+  {
+    "username": "daffa",
+    "password": "1",
+    "role": "admin"
+  },
+  {
+    "username": "dap",
+    "password": "1",
+    "role": "user"
+  }
 ]
