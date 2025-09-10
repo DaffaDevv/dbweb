@@ -3,18 +3,6 @@
     "username": "daffa",
     "password": "123",
     "role": "admin",
-    "expired": "2025-09-14T15:00:00.000Z"
-  },
-  {
-    "username": "user1",
-    "password": "123",
-    "role": "user",
-    "expired": null
-  },
-  {
-    "username": "asu",
-    "password": "1",
-    "role": "user",
-    "expired": null
+    "expired": "2025-09-16T15:30:00.000Z"
   }
 ]
