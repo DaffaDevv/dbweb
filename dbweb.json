@@ -10,5 +10,11 @@
     "password": "123",
     "role": "user",
     "expired": null
+  },
+  {
+    "username": "asu",
+    "password": "1",
+    "role": "user",
+    "expired": null
   }
 ]
