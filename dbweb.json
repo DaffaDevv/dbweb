@@ -1,8 +1,6 @@
-[
-  {
-    "username": "daffa",
-    "password": "1",
-    "role": "admin",
-    "expired": "10 hari"
-  }
-]
+{
+  "username": "daffa",
+  "password": "1",
+  "role": "admin",
+  "expired": "2025-09-14T15:00:00.000Z"
+}
