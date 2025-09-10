@@ -2,11 +2,7 @@
   {
     "username": "daffa",
     "password": "1",
-    "role": "admin"
-  },
-  {
-    "username": "ganteng",
-    "password": "1",
-    "role": "admin"
+    "role": "admin",
+    "expired": "10 hari"
   }
 ]
