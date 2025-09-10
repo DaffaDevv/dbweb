@@ -1,8 +1,14 @@
 [
   {
     "username": "daffa",
-    "password": "1",
+    "password": "123",
     "role": "admin",
-    "expired": "1 hari"
+    "expired": "2025-09-14T15:00:00.000Z"
+  },
+  {
+    "username": "user1",
+    "password": "123",
+    "role": "user",
+    "expired": null
   }
 ]
